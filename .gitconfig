@@ -1,0 +1,7 @@
+node_modules
+.idea
+src/public/
+coverage/
+*.log
+rel.inj
+*.iml
